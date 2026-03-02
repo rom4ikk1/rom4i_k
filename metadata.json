@@ -1,0 +1,5 @@
+{
+  "name": "Газификация",
+  "description": "Приложение для отслеживания этапов газификации объектов",
+  "requestFramePermissions": ["contacts"]
+}
